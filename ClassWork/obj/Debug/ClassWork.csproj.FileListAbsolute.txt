@@ -1,0 +1,6 @@
+D:\DevEducation\Домашки\HomeWork\ClassWork\bin\Debug\ClassWork.exe.config
+D:\DevEducation\Домашки\HomeWork\ClassWork\bin\Debug\ClassWork.exe
+D:\DevEducation\Домашки\HomeWork\ClassWork\bin\Debug\ClassWork.pdb
+D:\DevEducation\Домашки\HomeWork\ClassWork\obj\Debug\ClassWork.csprojAssemblyReference.cache
+D:\DevEducation\Домашки\HomeWork\ClassWork\obj\Debug\ClassWork.exe
+D:\DevEducation\Домашки\HomeWork\ClassWork\obj\Debug\ClassWork.pdb

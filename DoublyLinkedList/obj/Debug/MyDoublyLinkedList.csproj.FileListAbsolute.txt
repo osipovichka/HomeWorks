@@ -1,0 +1,6 @@
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\obj\Debug\MyDoublyLinkedList.csprojAssemblyReference.cache
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\DevEducation\Домашки\HomeWork\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

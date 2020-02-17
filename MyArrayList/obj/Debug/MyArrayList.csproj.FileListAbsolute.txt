@@ -1,0 +1,6 @@
+D:\DevEducation\Домашки\HomeWork\MyArrayList\bin\Debug\MyArrayList.exe.config
+D:\DevEducation\Домашки\HomeWork\MyArrayList\bin\Debug\MyArrayList.exe
+D:\DevEducation\Домашки\HomeWork\MyArrayList\bin\Debug\MyArrayList.pdb
+D:\DevEducation\Домашки\HomeWork\MyArrayList\obj\Debug\MyArrayList.csprojAssemblyReference.cache
+D:\DevEducation\Домашки\HomeWork\MyArrayList\obj\Debug\MyArrayList.exe
+D:\DevEducation\Домашки\HomeWork\MyArrayList\obj\Debug\MyArrayList.pdb

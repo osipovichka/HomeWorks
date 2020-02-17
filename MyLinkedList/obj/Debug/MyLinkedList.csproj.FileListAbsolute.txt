@@ -1,0 +1,6 @@
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\bin\Debug\MyLinkedList.exe.config
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\bin\Debug\MyLinkedList.exe
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\bin\Debug\MyLinkedList.pdb
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\obj\Debug\MyLinkedList.csprojAssemblyReference.cache
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\obj\Debug\MyLinkedList.exe
+D:\DevEducation\Домашки\HomeWork\MyLinkedList\obj\Debug\MyLinkedList.pdb
